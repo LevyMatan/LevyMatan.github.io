@@ -1,37 +1,14 @@
-## Welcome to GitHub Pages
+# Welcome to Matan's Page
 
-You can use the [editor on GitHub](https://github.com/LevyMatan/LevyMatan.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+Here are a few things I've done here on GitHub:
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- Pregnancy Progress Calendar Helper website: [link](https://levymatan.github.io/PregnancyProgressCalendarHelper/)
 
-### Markdown
+## Bio
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+My name is Matan Levy, I am an Electrical Engineer who graguated from Ben Gurion University in 2017.
+One of my hobbies is programming, and so it happens I am engaging with some projects on my free time.
+Other than that I am really excited about small RT projects on Arduino or Raspberry Pi.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/LevyMatan/LevyMatan.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Here is my picture:
+![My photo](my_photo.jpg)
