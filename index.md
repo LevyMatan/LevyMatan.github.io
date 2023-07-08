@@ -11,4 +11,4 @@ One of my hobbies is programming, and so it happens I am engaging with some proj
 Other than that I am really excited about small RT projects on Arduino or Raspberry Pi.
 
 Here is my picture:
-![My photo](my_photo.jpg)
+![My photo](my_photo.jpeg)
