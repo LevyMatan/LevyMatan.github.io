@@ -2,7 +2,7 @@
 
 Here are a few things I've done here on GitHub:
 
-- Pregnancy Progress Calendar Helper website: [link](https://levymatan.github.io/PregnancyProgressCalendarHelper/)
+- Pregnancy Progress Calendar Helper website: [link](https://levymatan.github.io/pregnancyCal/)
 
 ## Bio
 
